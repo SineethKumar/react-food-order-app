@@ -1,0 +1,23 @@
+.card {
+    padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 14px;
+    background-color: white;
+  }
+
+/* .card{
+    color: white;
+    width: 50%;
+    align-items: center;
+    background-color:#ffb366;
+    border-radius: 10px;
+    border: 5px solid #ff8000;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.card:hover{
+    width: 55%;
+    cursor: pointer;
+    transition: 500ms;
+} */
